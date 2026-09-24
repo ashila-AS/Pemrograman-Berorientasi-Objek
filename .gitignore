@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+bin/
+
+# JDK lokal
+oracleJdk-26/
+
+# IDE
+.vscode/
+.idea/
+
+# Dokumen laporan
+*.pdf
+*.docx
